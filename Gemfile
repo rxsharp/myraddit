@@ -3,6 +3,7 @@ source 'https://rubygems.org'
 
 gem 'devise', '~> 3.4.1'
 gem 'bootstrap-sass', '~> 3.3.1.0'
+gem 'acts_as_votable', '~> 0.10.0'
 
 gem 'rails', '4.2.0.rc3'
 gem 'sqlite3'
